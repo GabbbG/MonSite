@@ -14,3 +14,8 @@ h2{
     font-style: italic;
 }
 
+body {
+    background-image: url("imageex2.jpg");
+    background-image: top center;
+    background-size: cover;
+}
